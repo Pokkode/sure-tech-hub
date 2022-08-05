@@ -1,2 +1,2 @@
 # sure-tech-hub
-A simple webpage built with basic knowledge of HTML, CSS & javascript.
+A simple responsive webpage built with HTML, CSS & Javascript using my own custom rows and grid system to easily place elements on the webpage.
